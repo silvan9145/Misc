@@ -1,0 +1,16 @@
+{
+  "name": "wolframbot",
+  "version": "1.0.0",
+  "description": "Twitter bot that uses Wolfram Alpha API to answer questions",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-wolfram": "0.0.1",
+    "twit": "^2.2.5"
+  }
+}
